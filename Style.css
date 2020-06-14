@@ -1,0 +1,21 @@
+@font-face {
+	src: url(fonts/KITYPEC_.TTF);
+	font-family: kid;
+}
+
+.BoringText {
+	
+	font-weight: 50;
+	text-transform: uppercase;
+	font-style: italic;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 40px;
+	line-height: 30px;
+}
+
+
+.TrollText {
+	font-size: 60px;
+	line-height:78px;
+	font-family: kid;
+}
